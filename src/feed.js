@@ -15,21 +15,36 @@ export function Feed() {
         </Flex>
 
         <SimpleGrid columns ={3} spacing='15px'>
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
-            <Repo />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
+            < Repo isListView={false} />
         </SimpleGrid>
 
         <Flex alignItems='center' justifyContent='center' my="20px">
